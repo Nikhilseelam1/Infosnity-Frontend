@@ -95,9 +95,7 @@ This project is licensed under the MIT License.
 
 ## 👤 Author
 
-**Sandeep Pullareddy**
-- GitHub: [@sandeep2811-dev](https://github.com/sandeep2811-dev)
-
+**Seelam Nikhil**
 ## 📞 Support
 
 For support and inquiries, please open an issue on the GitHub repository.
